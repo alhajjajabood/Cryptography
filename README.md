@@ -2,7 +2,7 @@
 
 A comprehensive Python-based cryptography toolkit implementing various classical and modern encryption algorithms, cryptanalysis techniques, and key exchange protocols.
 
-**Author:**Abood Al Hajjaj - [@alhajjajabood](https://github.com/alhajjajabood),Mohammad Nakhleh - [@Moevo](https://github.com/Moevo)  
+## Author:Abood Al Hajjaj - [@alhajjajabood](https://github.com/alhajjajabood),Mohammad Nakhleh - [@Moevo](https://github.com/Moevo)  
 **Date:** December 2025  
 
 ## 📋 Overview

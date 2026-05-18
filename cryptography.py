@@ -3563,10 +3563,10 @@ def playfair_menu():
 def hill_menu():
     print("""
     ================= Hill Cipher ================= 
-    16.Hill Encryption
-    17.Hill Decryption
-    18.Hill Burte Force
-    19.Hill Frequency Attack
+    1.Hill Encryption
+    2.Hill Decryption
+    3.Hill Burte Force
+    4.Hill Frequency Attack
     =================================================
           """)
     choise=int(input("Enter Task Number Or '0' To EXIT  Or '99' To Main Menu :  "))
@@ -3606,8 +3606,8 @@ def des_menu():
 def aes_menu():
     print("""
     ================= AES ================= 
-    22.AES Encryption
-    23.AES Decryption
+    1.AES Encryption
+    2.AES Decryption
     =======================================""")
     choise=int(input("Enter Task Number Or '0' To EXIT  Or '99' To Main Menu :  "))
     if choise==1:
